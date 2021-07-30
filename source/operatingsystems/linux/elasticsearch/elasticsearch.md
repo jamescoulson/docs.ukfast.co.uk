@@ -44,13 +44,6 @@ type=rpm-md
 ```bash
 yum install elasticsearch
 ```
-##### Elasticsearch 7.6.x
-
-If you require Elasticsearch `7.6` specifically you will need to install with the below command
-
-```bash
-yum install https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.6.2-x86_64.rpm
-```
 
 ###### Start On Boot
 
